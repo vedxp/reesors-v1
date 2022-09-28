@@ -3,16 +3,12 @@
   "name": "Reesors",
   "version": "0.5.0",
   "scripts": {
-    "dev": "vuepress dev docs --temp .temp",
-    "build": "vuepress build docs --temp .temp"
+    "build": "vuepress build docs"
   },
   "devDependencies": {
     "vuepress": "1.9.7",
     "vuepress-theme-vt": "0.5.3"
   },
   "description": "A cozy 😌 collection of free resources for developers and designers curated with ♥️",
-  "author": "VedxP <github.com/VedxP>",
-  "resolutions": {
-    "optimize-css-assets-webpack-plugin": "6.0.1"
-  }
+  "author": "VedxP <github.com/VedxP>"
 }
