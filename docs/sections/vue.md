@@ -5,7 +5,6 @@
 - [Vuejs Tutorial](https://vuejs.org/tutorial/)
 - [Nuxtjs](https://nuxtjs.org/)
 - [Nuxt 3](https://v3.nuxtjs.org/)
-- [Modern Vue Template](https://github.com/byoungd/modern-vue-template)
 - [Petite Vue](https://github.com/vuejs/petite-vue)
 - [Teleport HQ](https://teleporthq.io/static-site-generator-for-vue)
 - [Gridsome](https://gridsome.org/)
