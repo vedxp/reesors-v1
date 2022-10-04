@@ -24,7 +24,6 @@
 - [Vuepress Reco Theme](https://github.com/vuepress-reco/vuepress-theme-reco)
 - [Vitespa](https://github.com/ctholho/vitespa)
 - [Create Vite App](https://github.com/ErKeLost/create-vite-app)
-- [Vitesse](https://github.com/antfu/vitesse)
 - [Modern Vue Template](https://github.com/byoungd/modern-vue-template)
 - [Imagemin Plugin](https://github.com/yjl9903/vuepress-plugin-imagemin)
 - [Vitepress Vue Theme](https://github.com/alex8088/vitepress-theme-vue)
