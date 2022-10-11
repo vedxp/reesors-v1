@@ -1,7 +1,6 @@
 ## Misc
 
 - [Screenfly (Check Website Responsiveness)](https://bluetree.ai/screenfly/)
-
 - [Responsinator (Check Website Responsiveness)](http://www.responsinator.com/)
 - [CSS Clip Path Maker](https://www.cssportal.com/css-clip-path-generator/)
 - [Clippy (CSS Clip Path Maker)](https://bennettfeely.com/clippy/)
@@ -11,8 +10,8 @@
 - [Compressor (Image Compressor)](https://compressor.io/)
 - [Scroll To Top Button Generator](https://www.softr.io/tools/javascript-scroll-to-top-button)
 - [CSS Box Shadow Examples](https://getcssscan.com/css-box-shadow-examples)
-- [Readme.so (README Generator)](https://readme.so/)
 
+- [Readme.so (README Generator)](https://readme.so/)
 - [Google Fonts CDN Trick (Combine Requests)](https://getfrontend.tips/combine-google-font-requests/)
 - [CSS @Import Information](https://getfrontend.tips/avoid-using-css-import/)
 - [Style Broken Images](https://getfrontend.tips/style-broken-images/)
@@ -22,8 +21,8 @@
 - [CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)
 - [Awesome CSS](https://github.com/awesome-css-group/awesome-css)
 - [Vue.js Performance Guide](https://madewithvuejs.com/blog/vuejs-performance-guide)
-- [Hashnode (Blogging Platform for Developers)](https://hashnode.com/)
 
+- [Hashnode (Blogging Platform for Developers)](https://hashnode.com/)
 - [Paragraph (Blogging Platform)](https://paragraph.xyz/)
 - [Brandmark (Logo Maker)](https://app.brandmark.io/v3/)
 - [Namecheap (Logo Maker)](https://www.namecheap.com/logo-maker/)
@@ -33,8 +32,8 @@
 - [SVGOMG (SVG Optimizer)](https://jakearchibald.github.io/svgomg/)
 - [Photopea (Online Photoshop)](https://www.photopea.com/)
 - [Photostack (Image Editor)](https://edit.photostack.app/)
-- [Convert MD file to website](https://medium.com/@bolajiayodeji/how-to-convert-github-markdown-files-to-a-simple-w)
 
+- [Convert MD file to website](https://medium.com/@bolajiayodeji/how-to-convert-github-markdown-files-to-a-simple-w)
 - [Jekyll Themes](https://jekyllthemes.dev/)
 - [Placeholder Image Generator](https://smalldev.tools/placeholder-image-generator-online)
 - [Flexbox Grid Generator](http://flexboxgrid.com/)
@@ -44,8 +43,8 @@
 - [Gatsby Blog Template](https://github.com/LekoArts/gatsby-starter-minimal-blog)
 - [Gatsby Emilia Portfolio Template](https://github.com/LekoArts/gatsby-starter-portfolio-emilia)
 - [Proto.io (Prototyping Tool)](https://proto.io/)
-- [Design Vault (Design Inspirations)](https://designvault.io/)
 
+- [Design Vault (Design Inspirations)](https://designvault.io/)
 - [Devtooly (Awesome Collection of Resources)](https://devtooly.com/)
 - [Hope UI (UI Toolkit)](https://hopeui.iqonic.design/)
 - [Super Designer (Shape & Pattern Generator)](https://superdesigner.co/)
