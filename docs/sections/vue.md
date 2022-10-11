@@ -81,3 +81,6 @@
 - [Unplugin Auto Import](https://github.com/antfu/unplugin-auto-import)
 - [Iconify Prerendered](https://github.com/cawa-93/iconify-prerendered)
 - [Esbuild](https://github.com/evanw/esbuild)
+- [Vueuse](https://vueuse.org/)
+- [Epic Spinners](https://epic-spinners.epicmax.co/)
+- [Vueform](https://vueform.com/)
