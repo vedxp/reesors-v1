@@ -8,3 +8,8 @@
 - [Vuepress Deploy](https://github.com/marketplace/actions/vuepress-deploy)
 - [Deploy Vue](https://github.com/marketplace/actions/vue-to-github-pages)
 - [Lighthouse](https://github.com/GoogleChrome/lighthouse-ci)
+- [Mend Bolt](https://github.com/marketplace/whitesource-bolt)
+- [Renovate](https://github.com/marketplace/renovate)
+- [Bitrise Checks](https://github.com/marketplace/bitrise-checks)
+- [Codacy](https://github.com/marketplace/codacy)
+- [Deepsource](https://github.com/marketplace/deepsource-io)
