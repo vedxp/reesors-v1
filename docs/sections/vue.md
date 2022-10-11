@@ -10,7 +10,6 @@
 - [Gridsome](https://gridsome.org/)
 - [Vite](https://vitejs.dev/)
 - [Vuetify](https://vuetifyjs.com/en/)
-
 - [Vuepress](https://vuepress.vuejs.org/)
 - [Vuepress 2](https://v2.vuepress.vuejs.org/)
 - [VVT Starter Template](https://github.com/web2033/vite-vue3-tailwind-starter)
@@ -21,7 +20,6 @@
 - [Vitepress](https://vitepress.vuejs.org/)
 - [Create Vue](https://github.com/vuejs/create-vue)
 - [Vuepress Plus Theme](https://vuepress-theme-default-plus.lando.dev/)
-
 - [Vuepress Reco Theme](https://github.com/vuepress-reco/vuepress-theme-reco)
 - [Vitespa](https://github.com/ctholho/vitespa)
 - [Create Vite App](https://github.com/ErKeLost/create-vite-app)
@@ -32,7 +30,6 @@
 - [Vide Nuxt](https://github.com/Nico-Mayer/videNuxt)
 - [Vide](https://github.com/Nico-Mayer/vide)
 - [Vitesse Clean Architect](https://github.com/shamscorner/vitesse-stackter-clean-architect)
-
 - [Vitesse Nuxt3](https://github.com/antfu/vitesse-nuxt3)
 - [Vitesse Lite](https://github.com/antfu/vitesse-lite)
 - [Vuepress Theme Yuu](https://vuepress-theme-yuu.netlify.app/)
@@ -43,7 +40,6 @@
 - [Webfont Downloader Vite Plugin](https://github.com/feat-agency/vite-plugin-webfont-dl)
 - [Unplugin Icons](https://github.com/antfu/unplugin-icons)
 - [Image Presets for Vite.js apps](https://github.com/ElMassimo/vite-plugin-image-presets)
-
 - [Image Tools](https://github.com/JonasKruckenberg/imagetools)
 - [Gesture](https://github.com/vueuse/gesture)
 - [Sound](https://github.com/vueuse/sound)
@@ -54,7 +50,6 @@
 - [No JS, Vite, Tailwind Starter](https://github.com/kometolabs/vite-tailwind-starter)
 - [Windi CSS](https://github.com/windicss/vite-plugin-windicss)
 - [Vite Plugin SSR](https://vite-plugin-ssr.com/)
-
 - [Vite SSG](https://github.com/antfu/vite-ssg)
 - [Vite Plugin MD](https://github.com/antfu/vite-plugin-md)
 - [Vite Plugin MD Lite](https://github.com/mdit-vue/vite-plugin-vue-markdown)
@@ -65,7 +60,6 @@
 - [Unplugin Vue Components](https://github.com/antfu/unplugin-vue-components)
 - [Vite Plugin Windicss](https://github.com/windicss/vite-plugin-windicss)
 - [Vite Plugin Progress](https://github.com/jeddygong/vite-plugin-progress)
-
 - [Unocss Preset Icons](https://github.com/unocss/unocss/tree/main/packages/preset-icons)
 - [Unocss Preset Web Fonts](https://github.com/unocss/unocss/tree/main/packages/preset-web-fonts)
 - [Vitawind](https://vitawind.vercel.app/)
@@ -76,7 +70,6 @@
 - [Nprogress](https://github.com/rstacruz/nprogress)
 - [Vue Splash](https://github.com/MehdiKhoshnevisz/vue-splash)
 - [Vue Tinybox](https://github.com/kytta/vue-tinybox)
-
 - [Vite Plugin Pages](https://github.com/hannoeru/vite-plugin-pages)
 - [Unplugin Auto Import](https://github.com/antfu/unplugin-auto-import)
 - [Iconify Prerendered](https://github.com/cawa-93/iconify-prerendered)
