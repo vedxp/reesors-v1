@@ -17,4 +17,6 @@
 - [Notesy](https://github.com/Iamlooker/Notesy)
 - [Pulse Music](https://github.com/WhiCCX0/PulseMusic)
 - [Utopia Walls](https://github.com/WaifuPX-DG/UtopiaWalls)
+- [Android IDE](https://github.com/AndroidIDEOfficial/AndroidIDE)
+- [APK Lab](https://apklab.surendrajat.xyz/)
 
