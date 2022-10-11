@@ -12,6 +12,7 @@
 - [Workbox (Service Worker Libraries)](https://developer.chrome.com/docs/workbox/)
 - [Cloudflare Pages (Website Hosting)](https://pages.cloudflare.com/)
 - [Is A Dev (Domain Service)](https://github.com/is-a-dev/register)
+
 - [Griddy (CSS Grid Tool)](https://griddy.io/)
 - [Fresh (Web Framework)](https://fresh.deno.dev/)
 - [Grapejs (Web Builder Framework)](https://grapesjs.com/)
@@ -22,6 +23,7 @@
 - [Gitpod (Code Editor Environment)](https://www.gitpod.io/)
 - [Atom (Powerful Code Editor)](https://atom.io/)
 - [Intab (Visual CSS Styling)](https://intab.io/)
+
 - [Playcode (JavaScript Playground)](https://playcode.io/)
 - [PWA Builder](https://www.pwabuilder.com/)
 - [Haikei (Shape Generator)](https://app.haikei.app/)
@@ -32,9 +34,13 @@
 - [n8n (Workflow Frameworks)](https://n8n.io/)
 - [Stackblitz (Online IDE)](https://stackblitz.com/)
 - [Neumorphism (Shadow Generator)](https://neumorphism.io/)
+
 - [CSS Border Radius Generator](https://elharony.github.io/Border-Radius-Generator/)
 - [Vectary (3d Design Platform)](https://www.vectary.com/)
 - [Jitter (Motion Designer)](https://jitter.video/)
 - [Soopr (Enhance Website)](https://www.soopr.co/)
 - [Type-scale (Typography Scaling)](https://type-scale.com/)
 - [Pattern.monster (SVG Pattern Generator)](https://pattern.monster/)
+- [Shrink Me (Image Compressor)](https://shrinkme.app/)
+- [Zamzar (File Converter)](https://www.zamzar.com/)
+- [Free Convert (File Converter)](https://www.freeconvert.com/)
