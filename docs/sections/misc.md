@@ -12,6 +12,7 @@
 - [Scroll To Top Button Generator](https://www.softr.io/tools/javascript-scroll-to-top-button)
 - [CSS Box Shadow Examples](https://getcssscan.com/css-box-shadow-examples)
 - [Readme.so (README Generator)](https://readme.so/)
+
 - [Google Fonts CDN Trick (Combine Requests)](https://getfrontend.tips/combine-google-font-requests/)
 - [CSS @Import Information](https://getfrontend.tips/avoid-using-css-import/)
 - [Style Broken Images](https://getfrontend.tips/style-broken-images/)
@@ -22,6 +23,7 @@
 - [Awesome CSS](https://github.com/awesome-css-group/awesome-css)
 - [Vue.js Performance Guide](https://madewithvuejs.com/blog/vuejs-performance-guide)
 - [Hashnode (Blogging Platform for Developers)](https://hashnode.com/)
+
 - [Paragraph (Blogging Platform)](https://paragraph.xyz/)
 - [Brandmark (Logo Maker)](https://app.brandmark.io/v3/)
 - [Namecheap (Logo Maker)](https://www.namecheap.com/logo-maker/)
@@ -32,6 +34,7 @@
 - [Photopea (Online Photoshop)](https://www.photopea.com/)
 - [Photostack (Image Editor)](https://edit.photostack.app/)
 - [Convert MD file to website](https://medium.com/@bolajiayodeji/how-to-convert-github-markdown-files-to-a-simple-w)
+
 - [Jekyll Themes](https://jekyllthemes.dev/)
 - [Placeholder Image Generator](https://smalldev.tools/placeholder-image-generator-online)
 - [Flexbox Grid Generator](http://flexboxgrid.com/)
@@ -42,6 +45,12 @@
 - [Gatsby Emilia Portfolio Template](https://github.com/LekoArts/gatsby-starter-portfolio-emilia)
 - [Proto.io (Prototyping Tool)](https://proto.io/)
 - [Design Vault (Design Inspirations)](https://designvault.io/)
+
 - [Devtooly (Awesome Collection of Resources)](https://devtooly.com/)
 - [Hope UI (UI Toolkit)](https://hopeui.iqonic.design/)
 - [Super Designer (Shape & Pattern Generator)](https://superdesigner.co/)
+- [Gradient Generator](https://www.joshwcomeau.com/gradient-generator/)
+- [Polychroma (Gradient Generator)](https://polychroma.app/)
+- [Gradient Generator](https://www.learnui.design/tools/gradient-generator.html)
+- [SVG Pattern Generator](https://heropatterns.com/)
+- [Gradient Border Generator](https://leerob.io/snippets/gradient-border)
