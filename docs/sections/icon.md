@@ -38,3 +38,5 @@
 - [Tabler Icons](https://tablericons.com/)
 - [tabler icons](https://tabler-icons.io/)
 - [Roundicons](https://roundicons.com/vector-free-icons/)
+- [Icones](https://github.com/antfu/icones)
+- [Octicons](https://primer.style/octicons/)
