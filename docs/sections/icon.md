@@ -40,3 +40,8 @@
 - [Roundicons](https://roundicons.com/vector-free-icons/)
 - [Icones](https://github.com/antfu/icones)
 - [Octicons](https://primer.style/octicons/)
+- [Iconify](https://iconify.design/)
+- [CSS.gg](https://css.gg/app)
+- [Interfacer](https://interfacer.xyz/)
+- [Bootstrap Icons](https://icons.getbootstrap.com/)
+- [Unicorn Icons](https://unicornicons.com/icons)
