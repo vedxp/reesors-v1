@@ -8,3 +8,5 @@
 - [Anime](https://animejs.com/)
 - [Zdog](https://zzz.dog/)
 - [Lottiefiles](https://lottiefiles.com/)
+- [Animate On Scroll](https://michalsnik.github.io/aos/)
+- [React Spring](https://react-spring.dev/)
