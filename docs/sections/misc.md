@@ -53,3 +53,11 @@
 - [Gradient Generator](https://www.learnui.design/tools/gradient-generator.html)
 - [SVG Pattern Generator](https://heropatterns.com/)
 - [Gradient Border Generator](https://leerob.io/snippets/gradient-border)
+- [Gatsby Themes](https://themes.lekoarts.de/)
+
+- [Next.js SSG Demo](https://github.com/vercel/preview-mode-demo)
+- [Next.js + Tailwind Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)
+- [Next.js + Notion Blog](https://github.com/ijjk/notion-blog)
+- [Gatsby Minimal Portfolio Starter](https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme)
+- [Mesh Gradients Collection](https://products.ls.graphics/mesh-gradients/)
+- [Dope UI (Design Templates)](https://dopeui.co/)
