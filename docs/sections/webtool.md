@@ -39,3 +39,11 @@
 - [Unocss (CSS Engine)](https://github.com/unocss/unocss)
 - [Tachyons (CSS Framework)](https://tachyons.io/)
 - [Awsm.css](https://igoradamenko.github.io/awsm.css/)
+- [CSS Wand](https://www.csswand.dev/)
+- [Box Shadows](https://box-shadow.dev/)
+- [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/)
+- [Glassmorphism Generator](https://hype4.academy/tools/glassmorphism-generator)
+
+- [Uiverse](https://uiverse.io/)
+- [Pico.css](https://picocss.com/)
+- [Bulma](https://bulma.io/)
