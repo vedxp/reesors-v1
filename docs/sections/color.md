@@ -25,3 +25,6 @@
 - [Tints & Shades](https://maketintsandshades.com/)
 - [Web Gradients](https://webgradients.com/)
 - [Color Space](https://mycolor.space/)
+- [Culrs](https://www.culrs.com/)
+- [ColorHub](https://www.colorhub.app/)
+- [Colormind](http://colormind.io/)
