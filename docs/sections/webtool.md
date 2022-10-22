@@ -47,3 +47,4 @@
 - [Uiverse](https://uiverse.io/)
 - [Pico.css](https://picocss.com/)
 - [Bulma](https://bulma.io/)
+- [Glass UI (Glassmorphism CSS Generator)](https://ui.glass/generator/)
