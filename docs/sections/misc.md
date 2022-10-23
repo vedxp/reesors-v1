@@ -61,3 +61,5 @@
 - [Gatsby Minimal Portfolio Starter](https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme)
 - [Mesh Gradients Collection](https://products.ls.graphics/mesh-gradients/)
 - [Dope UI (Design Templates)](https://dopeui.co/)
+- [Storyblok (CMS)](https://www.storyblok.com/)
+- [Astro](https://astro.build/)
