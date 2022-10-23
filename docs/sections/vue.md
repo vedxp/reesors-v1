@@ -82,3 +82,5 @@
 - [Awesome Vue](https://github.com/vuejs/awesome-vue)
 - [Maz UI](https://louismazel.github.io/maz-ui-3/)
 - [Gungir Vuepress Theme](https://v2-vuepress-theme-gungnir.vercel.app/docs/basic/intro.html)
+- [Vue Tailwind](https://www.vue-tailwind.com/)
+- [Flowbite Vue](https://flowbite-vue.com/)
