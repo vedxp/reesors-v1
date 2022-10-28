@@ -3,16 +3,14 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/.vuepress/public/hero.png">">
   <source media="(prefers-color-scheme: light)" srcset="docs/.vuepress/public/logo.png">">
-  <img alt="Reesors Logo" src="docs/.vuepress/public/logo.png" align="center" width="150">
+  <img alt="Reesors Logo" src="docs/.vuepress/public/logo.png" width="150">
 </picture>
 
-```py
-A cozy 😌 collection of free resources for developers and designers curated with ♥️
-```
+> A cozy 😌 collection of free resources for developers and designers curated with ♥️
 
-### Resources available for:
+<br>
 
-<table><td>
+## 🎉
 
 - [x] Animations
 - [x] App Dev
@@ -29,7 +27,13 @@ A cozy 😌 collection of free resources for developers and designers curated wi
 - [x] Vue
 - [x] Web Tools
 
-</td></table>
+<br>
 
-> **Note**<br>
-> This version of [Reesors](https://reesors-v1.vercel.app/) is no longer maintained, please visit the [maintained version](https://reesors.vercel.app/) for the latest resources!
+## ⚡
+
+- [Vuepress 1](https://vuepress.vuejs.org/)
+- [Vuepress Theme VT](https://vuepress-theme-vt.vercel.app/)
+
+---
+
+> **Note**<br> > [This version](https://github.com/VedxP/reesors-v1) of Reesors has been deprecated and will no longer be updated in favor of Reesors-v2. Please visit the [maintained version!](https://github.com/VedxP/reesors)
