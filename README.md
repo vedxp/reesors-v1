@@ -36,5 +36,4 @@
 
 ---
 
-> **Note**<br>
-> [This version](https://github.com/VedxP/reesors-v1) of Reesors has been deprecated and will no longer be updated in favor of Reesors-v2. Please visit the [maintained version!](https://github.com/VedxP/reesors)
+> **Note**<br> > [This version](https://github.com/VedxP/reesors-v1) of Reesors has been deprecated and will no longer be updated in favor of Reesors-v2. Please visit the [maintained version!](https://github.com/VedxP/reesors)
