@@ -5,6 +5,15 @@ actionText: Dive In
 actionLink: /sections/
 ---
 
+---
+status: $status
+---
+
+::: status
+This version is deprecated, [visit the maintained version!](https://reesors.vercel.app/)
+:::
+
+
 ::: slot heroText
 Reesors
 :::
