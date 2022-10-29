@@ -6,6 +6,7 @@ export = defineConfig4CustomTheme<ThemeConfig>((ctx) => ({
   title: "Reesors",
   head: [["link", { rel: "icon", href: "/logo.png" }]],
   themeConfig: {
+    status: 'This version has been deprecated, visit the maintained version!',
     enableDarkMode: true,
     smoothScroll: true,
     repo: "VedxP/reesors-v1",
