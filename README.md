@@ -27,6 +27,21 @@
 
 <br>
 
+## 📷
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/snapshot.png">">
+  <source media="(prefers-color-scheme: light)" srcset="/snapshot.png">">
+  <img alt="Snapshot of home page" src="/snapshot.png">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/snapshot_1.png">">
+  <source media="(prefers-color-scheme: light)" srcset="/snapshot_1.png">">
+  <img alt="Snapshot of colours section page" src="/snapshot_1.png">
+</picture>
+
+<br>
+
 ## ⚡
 
 - [Vuepress](https://vuepress.vuejs.org/)
@@ -34,4 +49,4 @@
 
 ---
 
-> **Note**<br> [This version](https://github.com/VedxP/reesors-v1) of Reesors has been deprecated in favor of Reesors-v2 and will no longer be updated. Please visit the [maintained version!](https://github.com/VedxP/reesors)
+> **Note**<br> This version of Reesors has been deprecated in favour of the new version, and hence this version will no longer be updated. Please visit the [maintained version!](https://github.com/VedxP/reesors)
