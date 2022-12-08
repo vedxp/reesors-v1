@@ -15,5 +15,5 @@ A cozy 😌 collection of free resources for developers and designers curated wi
 
 ::: slot footer
 Released under the GPL-3.0 License.<br>
-Copyright © 2022-present [VedxP](https://github.com/VedxP)
+Copyright 2022-present [Vedxp](https://vedxp.vercel.app/)
 :::
