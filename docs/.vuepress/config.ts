@@ -8,7 +8,7 @@ export = defineConfig4CustomTheme<ThemeConfig>((ctx) => ({
   themeConfig: {
     enableDarkMode: true,
     smoothScroll: true,
-    repo: "VedxP/reesors-v1",
+    repo: "vedxp/reesors-v1",
     docsBranch: 'main',
     docsDir: 'docs',
     editLinks: true,
