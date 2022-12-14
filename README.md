@@ -47,6 +47,6 @@
 - [Vuepress](https://vuepress.vuejs.org/)
 - [Vuepress Theme VT](https://vuepress-theme-vt.vercel.app/)
 
----
+<br>
 
-> **Note**<br> This version of Reesors has been deprecated in favour of the new version, and hence this version will no longer be updated. Please visit the [maintained version!](https://github.com/VedxP/reesors)
+> **Note**<br> This version of Reesors has been depreciated in favour of the new version, and hence this version will no longer be updated. Please visit the [maintained version!](https://github.com/vedxp/reesors)
